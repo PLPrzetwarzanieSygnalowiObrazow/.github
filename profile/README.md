@@ -13,3 +13,6 @@ System wizyjny powinien rozpoznawać i klasyfikować w czasie rzeczywistym przed
 Proszę o przygotowanie na 4 zjazd dokumentu opisującego propozycję projektu.
 
 Opis powinien być maksymalnie szczegółowy (na ile jest to możliwe jeszcze przed jego wykonaniem).
+
+#### [Propozycja 1 Biżuteria](/Project_proposals/Propozycja_v1_bizuteria.pdf)
+#### [Propozycja 2 Tablice rejestracyjne](/Project_proposals/Propozycja_v2_tablice_rejestracyjne.pdf)
